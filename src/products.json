@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "img": "https://www.caracteristicass.de/wp-content/uploads/2022/02/caracteristicas-de-las-cataratas-del-iguazu.jpg",
+    "title": "Cataratas",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+  },
+  {
+    "id": 2,
+    "img": "https://descubre.rci.com/wp-content/uploads/2019/08/800x500px_Bariloche2_A.png",
+    "title": "Bariloche",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+  },
+  {
+    "id": 3,
+    "img": "https://a.travel-assets.com/findyours-php/viewfinder/images/res40/80000/80287-Salta.jpg",
+    "title": "Salta",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+  },
+  {
+    "id": 4,
+    "img": "https://www.civitatis.com/blog/wp-content/uploads/2012/12/shutterstock_1282092994-1920x1458.jpg",
+    "title": "Santiago de Chile",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+  },
+  {
+    "id": 5,
+    "img": "https://statics.forbesargentina.com/2022/03/623245574faa8.png",
+    "title": "Montevideo",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+  }
+]
